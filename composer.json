@@ -1,0 +1,15 @@
+{
+    "name": "bjensen/zynlang",
+    "authors": [
+        {
+            "name": "Brendon Jensen",
+            "email": "bjensen@byu.edu"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "ZynLang\\": "./src"
+        }
+    }
+}
